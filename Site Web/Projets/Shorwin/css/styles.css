@@ -1,0 +1,36 @@
+
+
+header {
+	background-color: #161616;
+	height: 250px;
+	top: 0px;
+}
+
+
+
+nav.menu-nav ul li.btn{
+	font-family: 'Source code pro', Calibri, serif;
+	display: inline-block;
+	list-style-type: none;
+
+}
+nav.menu-nav ul li.btn a{
+	border-radius: 10%;
+	color:white;
+	background-color: red;
+	text-decoration: none;
+	padding: 10px;
+}
+nav.menu-nav ul li.btn:hover a{
+	border-radius: 5%;
+	color:red;
+	background-color: white;
+	transition: 0.4s;
+}
+
+
+
+
+
+
+
